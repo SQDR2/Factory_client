@@ -13,7 +13,6 @@ declare module "axios" {
 }
 const router = useRouter();
 const baseURL = "http://127.0.0.1:2580/"
-// const baseURL = "http://101.42.13.57:2580/"
 //创建axios实例
 const service = axios.create({
     baseURL: baseURL,
