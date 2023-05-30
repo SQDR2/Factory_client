@@ -21,3 +21,4 @@ npm run dev
 npm run build
 
 ##### 后台服务器接口，如有需要，请联系qq3220064721
+##### 该项目借鉴了这个大佬的通用后台管理系统：https://github.com/lin-xin/vue-manage-system.git
